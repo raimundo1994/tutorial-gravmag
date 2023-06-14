@@ -18,7 +18,7 @@ O repositório é organizado da seguinte forma:
 
 - [Processamento dados magneticos.ipynb](6_Processamento_dados_magneticos.ipynb): Neste tutorial, vamos explorar como ler e interpolar dados de um levantamento de aerolevantamento na Região de Carajás, Pará, Brasil. A Região de Carajás, conhecida por sua riqueza mineral, é um importante local de exploração de minério de ferro, cobre, ouro e outros minerais. Levantamentos aerogeofísicos são frequentemente realizados nessa região para mapear e investigar a distribuição desses recursos minerais.
 
-- [codes](/codes): 
+- [codes](/codes): Pasta com o código-fonte em Python com implementações abrangentes dos algoritmos de processamento de dados magnéticos e gravimétricos. 
 
 ## Como utilizar este repositório
 
