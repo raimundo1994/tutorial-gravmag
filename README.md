@@ -6,7 +6,7 @@ Este repositório contém uma coleção de ferramentas e recursos para manipula�
 
 O repositório é organizado da seguinte forma:
 
-- [Anomalia_campo_total](1 - Anomalia_campo_total.ipynb): Esta pasta contém notebooks Jupyter com exemplos de uso das ferramentas disponíveis para a manipulação de dados gravimétricos e magnéticos. Cada notebook aborda um tópico específico e inclui explicações detalhadas, código e visualizações. Esses exemplos permitem que você aprenda e explore as funcionalidades das bibliotecas utilizadas.
+- [1 - Anomalia_campo_total](1 - Anomalia_campo_total.ipynb): Esta pasta contém notebooks Jupyter com exemplos de uso das ferramentas disponíveis para a manipulação de dados gravimétricos e magnéticos. Cada notebook aborda um tópico específico e inclui explicações detalhadas, código e visualizações. Esses exemplos permitem que você aprenda e explore as funcionalidades das bibliotecas utilizadas.
 
 1. **Scripts**: Nesta pasta, você encontrará scripts Python que implementam funcionalidades específicas para manipulação de dados gravimétricos e magnéticos. Esses scripts podem ser utilizados diretamente em seus projetos ou adaptados de acordo com suas necessidades. Eles são uma excelente base para construir suas próprias soluções personalizadas.
 
