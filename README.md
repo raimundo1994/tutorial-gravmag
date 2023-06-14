@@ -10,7 +10,8 @@ Antes de utilizar este repositório, certifique-se de ter as seguintes bibliotec
 - [SciPy](https://scipy.org): Biblioteca para funções científicas e de engenharia.
 - [Matplotlib](https://matplotlib.org): Biblioteca para visualização de dados em Python.
 - [Jupyter Notebook](https://jupyter.org): Ambiente de desenvolvimento interativo para escrever e executar código Python em blocos.
-- [harmonica](https://www.fatiando.org/harmonica/latest/): Biblioteca Python para modelagem direta, inversão e processamento de dados gravitacionais e magnéticos.
+- [Harmonica](https://www.fatiando.org/harmonica/latest/): Biblioteca Python para modelagem direta, inversão e processamento de dados gravitacionais e magnéticos.
+- [Pyvista](https://pyvista.org/): PyVista é uma coleção de Software Livre de Código Aberto Licenciado (FLOSS) em torno de visualização 3D e análise de malha em Python.
 
 ## Conteúdo do Repositório
 
