@@ -20,6 +20,12 @@ O repositório é organizado da seguinte forma:
 
 - [codes](/codes): Pasta com o código-fonte em Python com implementações abrangentes dos algoritmos de processamento de dados magnéticos e gravimétricos. 
 
+- [figuras](/figuras): Local de armazenamento e salvalmento de figuras.
+
+- [slides](/slides): Conteúdo teorico sobre os assuntos abordados nos notebooks.
+
+- [Dados](/dados): Dados de input e output usados nos notebooks.
+
 ## Como utilizar este repositório
 
 Você pode clonar este repositório para seu ambiente de desenvolvimento local ou fazer o download dos arquivos individualmente, de acordo com sua necessidade. Recomendamos que você explore os notebooks de exemplo para ter uma visão geral das funcionalidades disponíveis e consultar a documentação para obter informações detalhadas sobre cada biblioteca e funcionalidade específica.
