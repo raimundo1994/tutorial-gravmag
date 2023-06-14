@@ -2,6 +2,16 @@
 
 Este repositório contém uma coleção de ferramentas e recursos para manipulação de dados gravimétricos e magnéticos, implementados em Python. Utilizando as bibliotecas `numpy`, `scipy`, `matplotlib`, `pyvista` e `harmonica`, onde se tem uma ampla gama de funcionalidades para processamento, análise e visualização desses tipos de dados geofísicos.
 
+## Pré-requisitos
+
+Antes de utilizar este repositório, certifique-se de ter as seguintes bibliotecas Python instaladas:
+
+- [NumPy](https://numpy.org): Biblioteca para cálculos numéricos eficientes.
+- [SciPy](https://scipy.org): Biblioteca para funções científicas e de engenharia.
+- [Matplotlib](https://matplotlib.org): Biblioteca para visualização de dados em Python.
+- [Jupyter Notebook](https://jupyter.org): Ambiente de desenvolvimento interativo para escrever e executar código Python em blocos.
+- [harmonica](https://www.fatiando.org/harmonica/latest/): Biblioteca Python para modelagem direta, inversão e processamento de dados gravitacionais e magnéticos.
+
 ## Conteúdo do Repositório
 
 O repositório é organizado da seguinte forma:
@@ -28,9 +38,13 @@ O repositório é organizado da seguinte forma:
 
 ## Como utilizar este repositório
 
-Você pode clonar este repositório para seu ambiente de desenvolvimento local ou fazer o download dos arquivos individualmente, de acordo com sua necessidade. Recomendamos que você explore os notebooks de exemplo para ter uma visão geral das funcionalidades disponíveis e consultar a documentação para obter informações detalhadas sobre cada biblioteca e funcionalidade específica.
+1. Certifique-se de ter todas as bibliotecas mencionadas acima instaladas em seu ambiente Python.
 
-Certifique-se de ter as bibliotecas e dependências necessárias instaladas em seu ambiente Python antes de executar os scripts ou notebooks. Utilize o gerenciador de pacotes `pip` para instalar as bibliotecas mencionadas acima. Por exemplo, utilize o comando `pip install numpy` para instalar a biblioteca numpy.
+2. Clone este repositório em sua máquina local usando o comando `git clone https://github.com/raimundo1994/tutorial-gravmag.git`.
+
+3. Acesse o diretório do repositório clonado.
+
+4. Utilize os notebooks Jupyter fornecidos para explorar os exemplos de uso e aplicar os algoritmos de processamento de dados potenciais em seus próprios dados.
 
 ## Contribuições
 
