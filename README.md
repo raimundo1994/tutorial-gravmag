@@ -37,6 +37,8 @@ O repositório é organizado da seguinte forma:
 
 - [Dados](/dados): Dados de input e output usados nos notebooks.
 
+![diagrama](fluxo.png)
+
 ## Como utilizar este repositório
 
 1. Certifique-se de ter todas as bibliotecas mencionadas acima instaladas em seu ambiente Python.
